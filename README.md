@@ -45,4 +45,6 @@ Python, pydicom, PostgreSQL, DCMTK, Orthanc, Docker, Bash, Linux (WSL on Windows
 <!-- TODO (after Phase 2): add a short tree of the folders (scripts/, sql/, docs/, ...) with one line each on what they hold. -->
 
 ## Author
-Jesse Brumley | [LinkedIn](https://www.linkedin.com/feed/) | [GitHub](https://github.com/jessebrumley)
+### Jesse Brumley
+
+**Website:** [hirejesse.dev](https://hirejesse.dev) | **LinkedIn:** [linkedin.com/in/jessebrumley](https://linkedin.com/in/jessebrumley) | **Email:** [jessebrumley86@gmail.com](mailto:jessebrumley86@gmail.com)
